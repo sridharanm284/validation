@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://1.bp.blogspot.com/-YwPmkkidXdQ/YFcHEWzpo1I/AAAAAAAAF1w/yZXs9Y920ZsytB9_upMsNjP8oE-Ei20uACLcBGAsYHQ/s16000/1.png');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+  h1 {
+    text-align: center;
+    color: #fff;
+    font-size: 36px;
+    margin-top: 200px;
+  }
+
+  .name {
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+  }

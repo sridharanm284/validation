@@ -1,0 +1,63 @@
+body {
+    background-image: url('https://th.bing.com/th/id/R.ccfa9ddc26490623ae5a560f2478721f?rik=5LVJUIUlfTmf5w&riu=http%3a%2f%2fwallpapercave.com%2fwp%2f4lImLyA.jpg&ehk=2AQZ2jVoiesMErnFGBSxD2RbgdF%2fXjSF88oMXVEHU8o%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    backdrop-filter: blur(10px);
+    opacity: 0.9;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    width: 400px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+
+  h2 {
+    text-align: center;
+    color: #333;
+    font-size: 24px;
+  }
+
+  form {
+    margin-top: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+    font-weight: bold;
+  }
+
+  input[type="email"],
+  input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .button-container button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+
+  .button-container button:hover {
+    background-color: #45a049;
+  }
